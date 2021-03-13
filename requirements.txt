@@ -1,0 +1,7 @@
+numpy==1.16.5
+scipy==1.5.4
+apache-beam
+absl-py
+scikit-learn
+statsmodels
+pybind11
